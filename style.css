@@ -1,0 +1,24 @@
+/* p {
+    height: 160px;
+    color: white;
+    background-color: teal;
+    text-align: center;
+} */
+
+.col1{
+    background-color: hotpink;
+}
+
+.col2 {
+    background-color: red;
+}
+
+.nested-col1 {
+    background-color: yellow;
+    color: black;
+}
+
+.nested-col2 {
+    background-color: blue;
+    color: white;
+}
